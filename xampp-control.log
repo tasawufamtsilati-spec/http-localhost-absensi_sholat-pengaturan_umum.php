@@ -1,0 +1,55 @@
+05.22.50  [main] 	Initializing Control Panel
+05.22.50  [main] 	Windows Version:  Home  64-bit
+05.22.50  [main] 	XAMPP Version: 7.3.2
+05.22.50  [main] 	Control Panel Version: 3.2.3  [ Compiled: Mar 7th 2019 ]
+05.22.50  [main] 	You are not running with administrator rights! This will work for
+05.22.50  [main] 	most application stuff but whenever you do something with services
+05.22.50  [main] 	there will be a security dialogue or things will break! So think 
+05.22.50  [main] 	about running this application with administrator rights!
+05.22.50  [main] 	XAMPP Installation Directory: "c:\xampp\"
+05.22.50  [main] 	Checking for prerequisites
+05.22.53  [main] 	All prerequisites found
+05.22.53  [main] 	Initializing Modules
+05.22.53  [main] 	Starting Check-Timer
+05.22.53  [main] 	Control Panel Ready
+05.25.48  [main] 	Executing "c:\xampp\"
+05.26.02  [main] 	Deinitializing Modules
+05.26.02  [main] 	Deinitializing Control Panel
+
+06.35.14  [main] 	Initializing Control Panel
+06.35.14  [main] 	Windows Version:  Home  64-bit
+06.35.14  [main] 	XAMPP Version: 7.3.2
+06.35.14  [main] 	Control Panel Version: 3.2.3  [ Compiled: Mar 7th 2019 ]
+06.35.14  [main] 	You are not running with administrator rights! This will work for
+06.35.14  [main] 	most application stuff but whenever you do something with services
+06.35.14  [main] 	there will be a security dialogue or things will break! So think 
+06.35.14  [main] 	about running this application with administrator rights!
+06.35.14  [main] 	XAMPP Installation Directory: "c:\xampp\"
+06.35.14  [main] 	Checking for prerequisites
+06.35.14  [main] 	All prerequisites found
+06.35.14  [main] 	Initializing Modules
+06.35.14  [main] 	Starting Check-Timer
+06.35.14  [main] 	Control Panel Ready
+06.35.36  [Apache] 	Attempting to start Apache app...
+06.35.37  [Apache] 	Status change detected: running
+06.35.38  [mysql] 	Attempting to start MySQL app...
+06.35.40  [mysql] 	Status change detected: running
+06.35.40  [filezilla] 	Attempting to start FileZilla app...
+06.35.41  [filezilla] 	Status change detected: running
+06.35.41  [mercury] 	Attempting to start Mercury app...
+06.35.42  [mercury] 	Status change detected: running
+06.35.43  [Tomcat] 	Attempting to start Tomcat app...
+06.35.50  [Tomcat] 	Attempting to start Tomcat app...
+06.36.34  [Tomcat] 	Tomcat Started/Stopped with errors, return code: 1
+06.36.34  [Tomcat] 	Make sure you have Java JDK or JRE installed and the required ports are free
+06.36.34  [Tomcat] 	Check the "/xampp/tomcat/logs" folder for more information
+06.36.34  [Tomcat] 	Tomcat Started/Stopped with errors, return code: 1
+06.36.34  [Tomcat] 	Make sure you have Java JDK or JRE installed and the required ports are free
+06.36.34  [Tomcat] 	Check the "/xampp/tomcat/logs" folder for more information
+06.37.03  [Tomcat] 	Attempting to start Tomcat app...
+06.37.10  [Tomcat] 	Attempting to start Tomcat app...
+06.37.18  [Tomcat] 	Attempting to start Tomcat app...
+06.37.21  [Tomcat] 	Attempting to start Tomcat app...
+06.37.32  [main] 	Deinitializing Modules
+06.37.32  [main] 	Deinitializing Control Panel
+
